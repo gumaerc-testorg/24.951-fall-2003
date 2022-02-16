@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-951-introduction-to-syntax-fall-2003/1e3a1d0873ad7a05f32451088daa9c6e_ln5a_movement.pdf
+file: /media/courses/24-951-introduction-to-syntax-fall-2003/1e3a1d0873ad7a05f32451088daa9c6e_ln5a_movement.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ln5a_movement.pdf
 uid: 1e3a1d08-73ad-7a05-f324-51088daa9c6e

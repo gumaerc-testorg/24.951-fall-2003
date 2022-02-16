@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-951-introduction-to-syntax-fall-2003/7c29247cc265cb341d26be26f0cb3a35_ln16psych_b_r.pdf
+file: /media/courses/24-951-introduction-to-syntax-fall-2003/7c29247cc265cb341d26be26f0cb3a35_ln16psych_b_r.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ln16psych_b_r.pdf
 uid: 7c29247c-c265-cb34-1d26-be26f0cb3a35
