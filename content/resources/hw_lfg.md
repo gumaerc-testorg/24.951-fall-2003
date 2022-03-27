@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b83bb989-f45f-0713-7451-de10f532164b
 resourcetype: Document
 title: hw_lfg.pdf
 uid: f83d24ac-885a-a34f-aeaf-570892bc92c9

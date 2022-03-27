@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17405e9f-4648-84f2-42cc-9b4b47fce2cc
 resourcetype: Document
 title: ln17psych_pesets.pdf
 uid: 610539a3-539a-b7b2-476b-664a0cbc8a13

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17405e9f-4648-84f2-42cc-9b4b47fce2cc
 resourcetype: Document
 title: ln8linking_utah.pdf
 uid: 5b47c1c0-e104-e76e-8c17-e0c3ab2e312e

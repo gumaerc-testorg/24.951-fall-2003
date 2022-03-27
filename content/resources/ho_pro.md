@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17405e9f-4648-84f2-42cc-9b4b47fce2cc
 resourcetype: Document
 title: ho_pro.pdf
 uid: 00fb7033-77d4-afa0-f842-67ad7c8cd867

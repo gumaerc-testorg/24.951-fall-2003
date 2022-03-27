@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17405e9f-4648-84f2-42cc-9b4b47fce2cc
 resourcetype: Document
 title: ln9process_unacc.pdf
 uid: bd3e59e1-f3e7-5094-b002-a5b69658e604
