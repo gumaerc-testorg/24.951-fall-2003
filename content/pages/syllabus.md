@@ -1,18 +1,17 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: f2889318-a1cb-bd12-62d3-94e153b55ed2
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Requirements
-------------
+## Requirements
 
 ### Problem Sets
 
@@ -24,10 +23,9 @@ Two of the topics have been designated for student presentations. These all invo
 
 ### Squib
 
-A short paper on a topic from the class will be due on the last class day. This paper can be quite short. It can be on any topic that captures your imagination (either positively or negatively!) during the course. It may include your own empirical or theoretical observations (see the journal \_Snippets\_ for examples of such writing) and/or your own thoughts about papers we have discussed in class. Please let the instructors know what you are planning to write about beforehand. We encourage you to make appointments with us to discuss your topic.
+A short paper on a topic from the class will be due on the last class day. This paper can be quite short. It can be on any topic that captures your imagination (either positively or negatively!) during the course. It may include your own empirical or theoretical observations (see the journal _Snippets_ for examples of such writing) and/or your own thoughts about papers we have discussed in class. Please let the instructors know what you are planning to write about beforehand. We encourage you to make appointments with us to discuss your topic.
 
-Readings
---------
+## Readings
 
 We have cut back the amount of required reading for this course over the last few years; then added more readings; then, cut back again — the "right amount" is still a mystery. You need time to think as well as time to absorb, and we hope that the current reading load this semester will give you that time.
 
@@ -35,7 +33,6 @@ This means, however, that you should attend all classes, no matter what. Nothing
 
 When you read the assignments, do not expect to understand everything you read. When you get stuck, try skipping over the trouble spot to get what you can out of the readings. At all times, if you need help, ask the instructors or your fellow students.
 
-Background
-----------
+## Background
 
 This is an introductory course taught at an advanced level. We assume that all the students in it have some background in generative syntax. The nature and extent of that background will differ from student to student, of course. Please do not hesitate to ask the instructors for more help if at any time you feel you need some background filled in. Also (and this is important!) do not hesitate to ask questions in class, even if the question is "could you explain that again".
