@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/7c29247cc265cb341d26be26f0cb3a35_ln16psych_b_r.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/7c29247cc265cb341d26be26f0cb3a35_ln16psych_b_r.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

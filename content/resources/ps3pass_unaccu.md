@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/c80f7fe58282e69c75f120a1364d73a4_ps3pass_unaccu.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/c80f7fe58282e69c75f120a1364d73a4_ps3pass_unaccu.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

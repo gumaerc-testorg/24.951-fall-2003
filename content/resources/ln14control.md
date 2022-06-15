@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/d753150073e9a86f1d2121abefada067_ln14control.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/d753150073e9a86f1d2121abefada067_ln14control.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

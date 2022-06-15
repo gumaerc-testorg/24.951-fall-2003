@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/05e498586439134a37091146d360a049_ln6a_reconstruct.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/05e498586439134a37091146d360a049_ln6a_reconstruct.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

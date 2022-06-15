@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/56c43d39a68110f707341989a33dc7c7_ln18recent_minim.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/56c43d39a68110f707341989a33dc7c7_ln18recent_minim.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

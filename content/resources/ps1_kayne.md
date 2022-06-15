@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/095bfca1244047a7fdf299f7532bedba_ps1_kayne.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/095bfca1244047a7fdf299f7532bedba_ps1_kayne.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

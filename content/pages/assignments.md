@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Parametrized Merge and Antisymmetry ([PDF]({{< baseurl >}}/resources/ps1_kayne))
+Parametrized Merge and Antisymmetry ({{% resource_link 095bfca1-2440-47a7-fdf2-99f7532bedba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Parametrized Merge and Antisymmetry ([PDF]({{< baseurl >}}/resources/ps1_kayne))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-A-movement ([PDF]({{< baseurl >}}/resources/ps2a_mvt_probset))
+A-movement ({{% resource_link 73aef449-6a3c-bb3b-d25f-51a88e92014a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ A-movement ([PDF]({{< baseurl >}}/resources/ps2a_mvt_probset))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Passives and Unaccusatives ([PDF]({{< baseurl >}}/resources/ps3pass_unaccu))
+Passives and Unaccusatives ({{% resource_link c80f7fe5-8282-e69c-75f1-20a1364d73a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Passives and Unaccusatives ([PDF]({{< baseurl >}}/resources/ps3pass_unaccu))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-LFG Exercises ([PDF]({{< baseurl >}}/resources/hw_lfg))
+LFG Exercises ({{% resource_link f83d24ac-885a-a34f-aeaf-570892bc92c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ LFG Exercises ([PDF]({{< baseurl >}}/resources/hw_lfg))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Bejar and Massam ([PDF]({{< baseurl >}}/resources/ps5b_m_1999))
+Bejar and Massam ({{% resource_link 15daf673-71e2-5223-22ee-986ce611f2b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Bejar and Massam ([PDF]({{< baseurl >}}/resources/ps5b_m_1999))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Null Subjects ([PDF]({{< baseurl >}}/resources/ps6null_subjects))
+Null Subjects ({{% resource_link ff3406ed-e03c-6064-9b45-499244197bd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Null Subjects ([PDF]({{< baseurl >}}/resources/ps6null_subjects))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-On V-to-I and on Double Objects ([PDF]({{< baseurl >}}/resources/hw_larson))
+On V-to-I and on Double Objects ({{% resource_link d923cfc8-42ce-9f31-3957-30955c43a650 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-951-introduction-to-syntax-fall-2003/b5bbccde3857b09758317345944939ac_ln13case_stackin.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/b5bbccde3857b09758317345944939ac_ln13case_stackin.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
