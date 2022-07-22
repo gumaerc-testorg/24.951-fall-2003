@@ -5,6 +5,7 @@ file: /courses/24-951-introduction-to-syntax-fall-2003/ff3406ede03c60649b4549924
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

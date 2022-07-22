@@ -5,6 +5,7 @@ file: /courses/24-951-introduction-to-syntax-fall-2003/c45e98624fa95da7f49835421
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
