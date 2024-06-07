@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/73aef4496a3cbb3bd25f51a88e92014a_ps2a_mvt_probset.pdf
+file_size: 16431
 file_type: application/pdf
 learning_resource_types:
 - Assignments

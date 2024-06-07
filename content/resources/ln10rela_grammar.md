@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/448cdb4eff452db56b74abb289430f2f_ln10rela_grammar.pdf
+file_size: 55622
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
