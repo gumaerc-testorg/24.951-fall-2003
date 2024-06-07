@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/ad83f332125a8005e661502ec3c7502c_ho_bjr_89.pdf
+file_size: 136806
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

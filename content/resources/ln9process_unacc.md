@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/bd3e59e1f3e75094b002a5b69658e604_ln9process_unacc.pdf
+file_size: 83626
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
