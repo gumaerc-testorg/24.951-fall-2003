@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-951-introduction-to-syntax-fall-2003/84e1847ed3815bebd5943bcdd499aaee_ln2ho_fukui_01.pdf
+file_size: 152768
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
