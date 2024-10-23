@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-951-introduction-to-syntax-fall-2003/05e498586439134a37091146d360a049_ln6a_reconstruct.pdf
+file: /ol-ocw-studio-app/courses/24-951-introduction-to-syntax-fall-2003/05e498586439134a37091146d360a049_ln6a_reconstruct.pdf
 file_size: 70278
 file_type: application/pdf
 learning_resource_types:
