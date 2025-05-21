@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-951-introduction-to-syntax-fall-2003/da9a84ae420cededbcc1f19ad1747883_ho_mplt1.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/da9a84ae420cededbcc1f19ad1747883_ho_mplt1.pdf
 file_size: 196856
 file_type: application/pdf
 learning_resource_types:

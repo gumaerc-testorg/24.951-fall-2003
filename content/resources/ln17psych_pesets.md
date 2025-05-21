@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-951-introduction-to-syntax-fall-2003/610539a3539ab7b2476b664a0cbc8a13_ln17psych_pesets.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/610539a3539ab7b2476b664a0cbc8a13_ln17psych_pesets.pdf
 file_size: 141907
 file_type: application/pdf
 learning_resource_types:
