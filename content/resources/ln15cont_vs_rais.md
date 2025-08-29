@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Obligatory Control Can?t be Raising or: Where Hornstein (1999) Got It
   Wrong'
-file: /courses/24-951-introduction-to-syntax-fall-2003/51c1e511cc570c3617748d8e71758a5c_ln15cont_vs_rais.pdf
+file: /ol-ocw-studio-app/courses/24-951-introduction-to-syntax-fall-2003/51c1e511cc570c3617748d8e71758a5c_ln15cont_vs_rais.pdf
 file_size: 158396
 file_type: application/pdf
 learning_resource_types:
